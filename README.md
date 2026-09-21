@@ -27,4 +27,4 @@ Or open `xai_decathlon_kedar.ipynb` in Cursor/VS Code and select the kernel **Py
 2. Fill in your assigned method in the Results Table.
 3. Implement your method in each Event workspace cell.
 
-Jaideep Aher: `xai_decathlon_Jaideep.ipynb` (LIME, events 4, 5, and 6).
+Jaideep Aher (jaideep-aher, jaideep.aher@duke.edu): `xai_decathlon_Jaideep.ipynb` (LIME, events 4, 5, and 6).
