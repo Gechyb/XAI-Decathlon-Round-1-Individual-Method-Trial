@@ -16,6 +16,7 @@ pip install -r requirements.txt
 ```bash
 source .venv/bin/activate
 jupyter notebook xai_decathlon_kedar.ipynb
+jupyter notebook xai_decathlon_Jaideep.ipynb
 ```
 
 Or open `xai_decathlon_kedar.ipynb` in Cursor/VS Code and select the kernel **Python (XAI Decathlon)**.
@@ -25,3 +26,5 @@ Or open `xai_decathlon_kedar.ipynb` in Cursor/VS Code and select the kernel **Py
 1. Run the **Setup** cell and the tabular/image model cells.
 2. Fill in your assigned method in the Results Table.
 3. Implement your method in each Event workspace cell.
+
+Jaideep Aher: `xai_decathlon_Jaideep.ipynb` (LIME, events 4, 5, and 6).
